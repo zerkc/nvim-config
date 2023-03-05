@@ -26,4 +26,8 @@ Plug 'nvim-lua/plenary.nvim'
 Plug 'sindrets/diffview.nvim'
 Plug 'tpope/vim-fugitive'
 
+Plug 'ryanoasis/vim-devicons'
+
+Plug 'mg979/vim-visual-multi', {'branch': 'master'}
+
 call plug#end()

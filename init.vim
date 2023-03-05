@@ -13,6 +13,7 @@ set showmatch
 
 so ~/.config/nvim/plugins.vim
 so ~/.config/nvim/maps.vim
+so ~/.config/nvim/plugin_config.vim
 
 colorscheme onedark
 "let g:gruvbox_contrast_dark = "hard"

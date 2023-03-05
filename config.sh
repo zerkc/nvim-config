@@ -6,4 +6,4 @@ sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.
 
 nvim +'PlugInstall --sync' +qa
 
-nvim +'CocInstall coc-tsserver coc-html coc-css coc-react-refactor coc-eslint coc-json coc-phpls  coc-pyright' +qa
+nvim +'CocInstall coc-tsserver coc-html coc-css coc-react-refactor coc-eslint coc-json coc-phpls  coc-pyright @yaegassy/coc-tailwindcss3' +qa

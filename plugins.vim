@@ -30,4 +30,8 @@ Plug 'ryanoasis/vim-devicons'
 
 Plug 'mg979/vim-visual-multi', {'branch': 'master'}
 
+
+
+Plug 'nathanaelkane/vim-indent-guides'
+
 call plug#end()

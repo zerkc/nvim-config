@@ -1,5 +1,4 @@
-#Single Configuration for neovim
+# 💤 LazyVim
 
-```bash
-bash -c "$(curl https://raw.githubusercontent.com/zerkc/nvim-config/master/install.sh)"
-```
+A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
+Refer to the [documentation](https://lazyvim.github.io/installation) to get started.

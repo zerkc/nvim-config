@@ -12,6 +12,6 @@ mv $TMPDIR/.* ~/.config/nvim/
 
 rm -rf $TMPDIR 
 
-cd ~/.config/nvim/ && ./config.sh
+#cd ~/.config/nvim/ && ./config.sh
 
 echo "Successfully Install"

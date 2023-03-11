@@ -6,3 +6,4 @@ debug
 foo.*
 *.log
 data
+packer_compiled.lua

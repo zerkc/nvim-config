@@ -43,5 +43,6 @@ keymap("n", "<C-k>", "<C-w>k", { noremap = true})
 keymap("n", "<C-l>", "<C-w>l", { noremap = true})
 
 
+keymap("t", "<Esc>", "<C-\\><C-n><CR>", { noremap = true })
 
 _G.KM = KM

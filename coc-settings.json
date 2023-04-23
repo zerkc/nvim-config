@@ -1,5 +1,7 @@
 {
 	"diagnostic.virtualText": true,
 	"diagnostic.checkCurrentLine": true,
-	"diagnostic.virtualTextCurrentLineOnly": false
+	"diagnostic.virtualTextCurrentLineOnly": false,
+	"prettier.useTabs": true,
+	"prettier.tabWidth": 4
 }
